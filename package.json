@@ -1,0 +1,19 @@
+{
+  "name": "wintest-pow",
+  "version": "1.0.0",
+  "description": "Pow is a CLI tool to run useful commands easily configurable via Pow files.",
+  "repository": "https://github.com/gabrys/wintest-pow.git",
+  "author": "Piotr Gabryjeluk <piotr.gabryjeluk@shortlist.co>",
+  "license": "MIT",
+  "bin": {
+    "t1-pow": "t1-pow.exe",
+    "t2-pow": "t2-pow.exe",
+    "t3-pow": "t3-pow.exe",
+    "t4-pow": "t4-pow.exe",
+    "t5-pow": "t5-pow.exe",
+    "t8-pow": "t8-pow.exe",
+    "t9-pow": "t9-pow.exe"
+  },
+  "cpu": ["x64"],
+  "os": ["win32"]
+}
